@@ -2,10 +2,12 @@
 
 ## Overview
 
-Contains 3 deliverables that interface with the OpenWeather, GoogleMaps, and GoogleDirections APIs. Outer files were completed as preperation for the deliverables.
-Deliverable 3 contains an itinerary for a fun trip to Mauritius :-)
+Contains 3 sections that interface with the OpenWeather, GoogleMaps, and GoogleDirections APIs. Outer files were completed in preperation.
+section 3 contains an itinerary for a fun trip to Mauritius :-)
 
-### Deliverable 1 - Retrieve Weather Data
+Each section does the following:
+
+### 1 - Retrieve Weather Data
 
 Retrieves all of the following information from the API call:
 
@@ -23,7 +25,7 @@ Exports the DataFrame as WeatherPy_Database.csv into the Weather_Database folder
 Contains: The Weather_Database.ipynb file, 
           The WeatherPy_Database.csv file
 
-### Deliverable 2 - Create Customer Travel Destinations Map
+### 2 - Create Customer Travel Destinations Map
 
 Input statements are written to prompt the customer for their minimum and maximum temperature preferences.
 
@@ -45,7 +47,7 @@ Contains:   The Vacation_Search.ipynb file,
             The WeatherPy_vacation.csv file, 
             The WeatherPy_vacation_map.png image
             
-### Deliverable 3 - Create a Travel Itinerary Map
+### 3 - Create a Travel Itinerary Map
 
 Four DataFrames are created, one for each city on the itinerary.
 
